@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ananya Kaul</h1>
 <h3 align="center">I am an aspiring data scientist.</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/143861/screenshots/2979074/media/2c48a30bba99dd8e28eec029a4e888d6.gif">
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/143861/screenshots/2979074/media/2c48a30bba99dd8e28eec029a4e888d6.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brisinger23&label=Profile%20views&color=0e75b6&style=flat" alt="brisinger23" /> </p>
