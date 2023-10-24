@@ -1,4 +1,3 @@
-![MasterHead](https://www.bits-pilani.ac.in/Uploads/Goa/goaComputersceience/Microcontent/2016-10-3--9-39-24-342_data-science_copy.jpg)
 <h1 align="center">Hi 👋, I'm Ananya Kaul</h1>
 <h3 align="center">I am an aspiring data scientist.</h3>
 
