@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananya Kaul</h1>
-<h3 align="center">I am an aspiring data scientist.</h3>
+<!-- <h3 align="center">I am an aspiring data scientist.</h3> -->
 
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/143861/screenshots/2979074/media/2c48a30bba99dd8e28eec029a4e888d6.gif">
 
