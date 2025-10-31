@@ -6,13 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brisinger23&label=Profile%20views&color=0e75b6&style=flat" alt="brisinger23" /> </p>
 
-- 🔭 I’m currently working on **Data Science projects as well as several case studies for my Tableau Dashboards.**
-
-- 🌱 I’m currently learning **Python , Machine Learning**
 
 - 📫 How to reach me **kaul23ananya@gmail.com**
 
-- ⚡ Hobbies **Travelling , Playing Football , Reading blogs and books**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
